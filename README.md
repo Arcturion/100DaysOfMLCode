@@ -7,3 +7,5 @@ Dedication to do ML Projects for 100 days from Siraj Raval #100DaysMLOfCode. I w
 (24/07/2018) Creating an <a href="https://github.com/hermonjay/iris_classifier">Iris Classifier</a> using kNN, SVM, XGBoost, Decision Tree, and Random Forest.
 * ***Day 2***  
 (25/07/2018) Creating a <a href="https://github.com/hermonjay/loan_prediction">Loan Prediction</a> using Random Forest.
+* ***Day 3***  
+(26/07/2018) Creating a <a href="https://github.com/hermonjay/big_mart_sales_iii">Big Mart Sales III Prediction</a> using Linear Regression.
