@@ -9,3 +9,5 @@ Dedication to do ML Projects for 100 days from Siraj Raval #100DaysMLOfCode. I w
 (25/07/2018) Creating a <a href="https://github.com/hermonjay/loan_prediction">Loan Prediction</a> using Random Forest.
 * ***Day 3***  
 (26/07/2018) Creating a <a href="https://github.com/hermonjay/big_mart_sales_iii">Big Mart Sales III Prediction</a> using Linear Regression.
+* ***Day 4***  
+(27/07/2018) Creating a <a href="https://github.com/hermonjay/boston_housing">Boston Housing Prediction</a> using Linear Regression.
