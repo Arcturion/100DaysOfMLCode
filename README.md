@@ -17,3 +17,5 @@ Dedication to do ML Projects for 100 days from Siraj Raval #100DaysMLOfCode. I w
 (29/07/2018) Creating a <a href="https://github.com/hermonjay/wine_quality/">Wine Quality Classifier</a> using Random Forest dan Decision Tree.
 * ***Day 7***  
 (30/07/2018) Creating a <a href="https://github.com/hermonjay/adult_income/">Adult Income Prediction</a> using Random Forest.
+* ***Day 8***  
+(31/07/2018) Creating a <a href="https://github.com/hermonjay/breast_cancer">Breast Cancer Classifier</a> using KNN, Logistic Regresion, Decision Tree, and Random Forest.
