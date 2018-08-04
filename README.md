@@ -19,3 +19,5 @@ Dedication to do ML Projects for 100 days from Siraj Raval #100DaysMLOfCode. I w
 (30/07/2018) Creating a <a href="https://github.com/hermonjay/adult_income/">Adult Income Prediction</a> using Random Forest.
 * ***Day 8***  
 (31/07/2018) Creating a <a href="https://github.com/hermonjay/breast_cancer">Breast Cancer Classifier</a> using KNN, Logistic Regresion, Decision Tree, and Random Forest.
+* ***Day 9-10***  
+(3-4/08/2018) Creating a <a href="https://github.com/hermonjay/epl_winning_prediction">EPL Winning Prediction</a> using XGBoost, Logistic Regression, Random Forest, and SVM.
