@@ -23,3 +23,5 @@ Dedication to do ML Projects for 100 days from Siraj Raval #100DaysMLOfCode. I w
 (3-4/08/2018) Creating a <a href="https://github.com/hermonjay/epl_winning_prediction">EPL Winning Prediction</a> using XGBoost, Logistic Regression, Random Forest, and SVM.
 * ***Day 11-12***  
 (20-21/08/2018) Creating a <a href="https://github.com/hermonjay/har">Human Activity Recognition</a> using Multi-layer Perceptron.
+* ***Day 13***  
+(23/08/2018) Creating a <a href="https://github.com/hermonjay/song_year_prediction">Song Year Prediction</a> using Neural Network.
